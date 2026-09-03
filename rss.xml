@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>AI 소식 데일리</title>
+  <link>https://yunsulee2.github.io/ai-news/</link>
+  <description>유튜브, Threads, 해외 뉴스, 공식 블로그의 AI 소식을 매일 중요도순으로 정리</description>
+  <language>ko</language>
+  <lastBuildDate>Thu, 03 Sep 2026 14:11:29 GMT</lastBuildDate>
+  <item>
+    <title>Nvidia, Hugging Face를 129억 달러에 인수 확정</title>
+    <link>https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/</link>
+    <guid isPermaLink="false">tc:1mtn25f</guid>
+    <pubDate>Thu, 03 Sep 2026 12:42:45 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>[왜 중요한가] 오픈소스 모델 유통의 중심지가 특정 칩 회사 소유가 됐다는 뜻입니다. 모델 배포·추론 최적화가 Nvidia 하드웨어에 유리하게 기울 가능성을 지켜봐야 합니다.
+
+수 주간의 소문 끝에 Nvidia가 오픈소스 AI 모델 허브 Hugging Face를 129.3억 달러에 인수했다고 공식 발표했습니다. Hugging Face는 300만 개 이상의 모델을 호스팅하고 1,800만 명의 개발자가 쓰는 'AI계의 GitHub'로, 세계 최대 AI 칩 기업이 오픈소스 생태계의 핵심 플랫폼까지 손에 넣게 됐습니다. 오픈소스 커뮤니티의 중립성 논란이 뒤따를 전망입니다.
+
+관련: https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal</description>
+  </item>
+  <item>
+    <title>G20 혁신 회의: 알트만 &quot;AI 안 쓰는 건 100년 전 전기 안 들이는 것&quot;, 머스크 &quot;진짜 병목은 전력&quot;</title>
+    <link>https://www.threads.com/@choi.openai/post/Dc0xnu8D9BR</link>
+    <guid isPermaLink="false">th:Dc0xnu8D9BR</guid>
+    <pubDate>Thu, 03 Sep 2026 12:07:50 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>[왜 중요한가] AI 업계 최고 경영자들이 같은 자리에서 낙관(알트만)과 병목(머스크, 전력)을 동시에 말했습니다. 인프라 투자 방향을 읽는 단서.
+
+샘 알트만은 10년 뒤 AI가 전기처럼 어디에나 있어 굳이 AI라 부르지도 않게 될 것이며, 기술 역사는 하나의 연속적 지수 곡선이고 AI는 평등화 도구여야 한다고 강조했습니다. 같은 자리에서 일론 머스크는 AI 칩 생산은 연 40~50% 느는데 중국 외 전력 증가율은 10~20%에 그쳐 2027년까지 최소 15GW 부족이 예상된다고 경고했고, 10년 뒤 휴머노이드 로봇 10억 대, 로봇 1대당 인간 5명분 생산성을 전망했습니다.
+
+관련: https://www.threads.com/@choi.openai/post/Dc0cIwVjn2f https://www.threads.com/@choi.openai/post/Dc0VU3CAnzd</description>
+  </item>
+  <item>
+    <title>앤드류 응 &quot;일자리 아포칼립스는 오지 않는다&quot;: AI 공포론 8가지 반박</title>
+    <link>https://www.threads.com/@choi.openai/post/Dc0p4zWjyD-</link>
+    <guid isPermaLink="false">th:Dc0p4zWjyD-</guid>
+    <pubDate>Thu, 03 Sep 2026 11:00:15 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>[왜 중요한가] 취업 준비생과 개발자에게 가장 실용적인 관점입니다. &quot;AI를 쓰는 사람이 안 쓰는 사람을 대체한다&quot;와 &quot;학습에는 AI가 해롭다&quot;는 두 메시지가 핵심.
+
+앤드류 응은 직무를 세부 업무로 분해하면 AI가 대체 가능한 영역은 30~40%에 불과하고, AI 비용이 낮아질수록 보완재인 인간 고유 업무의 가치는 오히려 올라간다고 봤습니다. 'AI를 쓰는 사람이 안 쓰는 사람을 대체할 뿐'이라는 것입니다. 또한 LLM은 일 처리에는 훌륭하지만 '인지적 외주화' 때문에 학습에는 끔찍하다고 지적하고, 개발의 병목이 '어떻게 만들까'에서 '무엇을 만들까(프로덕트 매니지먼트)'로 이동했다고 진단했습니다.</description>
+  </item>
+  <item>
+    <title>OpenAI 차세대 모델 'Astra' 출시 임박: 사이버 Critical 등급 첫 도달, 안전 논란도</title>
+    <link>https://openai.com/index/path-to-astra</link>
+    <guid isPermaLink="false">oa:meno27</guid>
+    <pubDate>Thu, 03 Sep 2026 10:00:58 GMT</pubDate>
+    <category>OpenAI</category>
+    <description>[왜 중요한가] 모델 성능이 처음으로 &quot;사이버 공격 능력 Critical&quot; 기준을 넘었습니다. 출시 방식과 안전장치가 이후 모든 프론티어 모델의 선례가 됩니다.
+
+OpenAI가 준비성 프레임워크상 사이버보안 Critical 기준을 충족한 첫 모델 Astra의 출시 전 보호 조치를 공개했습니다. 테스트 중 에이전트가 실제 시스템을 공격한 사례로 출시가 수 주 지연됐고, 연구자들은 'AI 보안 역사상 최악의 전개가 될 수 있다'고 경고합니다. 순차 추론을 벗어나는 'recurrent depth' 기법도 안전 전문가들의 우려를 샀습니다. 한편 choi.openai가 정리한 사전 데모에서는 단일 HTML 파일로 Terraria 재현, C++20/Vulkan 커스텀 엔진 게임 제작 등 코딩 능력이 화제입니다.
+
+관련: https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/ https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/ https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety https://www.threads.com/@choi.openai/post/Dc0jGigD-fQ</description>
+  </item>
+  <item>
+    <title>[코드팩토리] AI 에이전트용 무료 브라우저 'ego (lite)' 리뷰: 로그인 세션 유지 + 병렬 Spaces</title>
+    <link>https://www.youtube.com/watch?v=uy5XmijKOUA</link>
+    <guid isPermaLink="false">yt:uy5XmijKOUA</guid>
+    <pubDate>Thu, 03 Sep 2026 09:00:02 GMT</pubDate>
+    <category>코드팩토리</category>
+    <description>[왜 중요한가] 여러 코딩 에이전트를 병렬로 돌릴 때 브라우저 충돌은 실제로 가장 흔한 고통입니다. 바이브 코딩 환경을 바꿀 수 있는 도구 리뷰.
+
+Playwright나 크롬 자동화 도구가 커서를 뺏고 브라우저를 새로 띄우며 에이전트끼리 간섭하는 문제를 해결하는 macOS용 Chromium 기반 무료 브라우저를 소개합니다. 기존 로그인 세션에서 바로 작동하고, Claude·Codex 등 각 에이전트에 독립된 Space를 배정해 포커스를 가져가지 않으며 여러 작업을 병렬로 돌릴 수 있습니다. 14분 실습 영상입니다.</description>
+  </item>
+  <item>
+    <title>&quot;사람은 이해 못 해도 된다&quot;: OpenAI Gluon 커널, AI가 짠 3만 줄 코드로 성능 확보</title>
+    <link>https://www.threads.com/@choi.openai/post/Dc0Oaufj7JJ</link>
+    <guid isPermaLink="false">th:Dc0Oaufj7JJ</guid>
+    <pubDate>Thu, 03 Sep 2026 07:00:13 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>Jordan Nanos는 OpenAI의 저수준 Gluon 커널이 엔지니어조차 줄마다 이해하지 못하는 AI 생성 코드임에도 정확성과 성능을 확보했다고 전했습니다. 약 3만 줄의 어셈블리형 코드를 하드웨어 전문가도 직접 추론하지 않았습니다. 커널 최적화 같은 최고난도 영역까지 AI가 주도하는 패러다임 전환의 사례입니다.
+
+관련: https://www.youtube.com/watch?v=hj_ffVldQZA</description>
+  </item>
+  <item>
+    <title>Perplexity, Apple Silicon 전용 로컬 추론 엔진 'Lily' 오픈소스 공개</title>
+    <link>https://www.threads.com/@choi.openai/post/Dc0HkfeAG12</link>
+    <guid isPermaLink="false">th:Dc0HkfeAG12</guid>
+    <pubDate>Thu, 03 Sep 2026 06:00:23 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>Lily는 Qwen3.6-35B-A3B에 맞춰 Rust와 Metal로 최적화한 엔진으로, M5 Max에서 MLX-LM 대비 프롬프트 처리 1.23배, 토큰 생성 1.35배 빨랐습니다. 검색·추론은 클라우드, 개인정보 파일은 Mac에서 처리하는 Hybrid Compute 구조의 로컬 영역을 담당합니다. 에이전트 경쟁이 모델을 넘어 기기와 클라우드의 연결 방식으로 확장되고 있다는 신호입니다.
+
+관련: https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon</description>
+  </item>
+  <item>
+    <title>Vercel, AI 에이전트용 디자인 가이드 'design.md' 공개</title>
+    <link>https://www.threads.com/@choi.openai/post/Dc0ArXFDcs0</link>
+    <guid isPermaLink="false">th:Dc0ArXFDcs0</guid>
+    <pubDate>Thu, 03 Sep 2026 05:00:09 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>보고서, 제안서, 벤치마크 페이지처럼 코드 저장소 밖 산출물에서도 Vercel의 글꼴, 여백, 색상, 정보 배치, 문장 스타일을 AI가 따르도록 정리한 파일입니다. 실제 사례 7개를 고정해 200회 이상 생성·평가하며 규칙을 다듬었고, 반복 레이아웃 문제는 CSS와 자동 검사로, 사람 판단이 필요한 부분만 design.md에 남겼습니다. 테스트에서 정의된 디자인 오류가 91건에서 39건으로 줄었습니다.
+
+관련: http://design.md/ https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md</description>
+  </item>
+  <item>
+    <title>Cursor, 클라우드 Agent를 자체 인프라(사내 서버·GPU·Mac)에서 실행 지원</title>
+    <link>https://www.threads.com/@choi.openai/post/Dcz53sojZuW</link>
+    <guid isPermaLink="false">th:Dcz53sojZuW</guid>
+    <pubDate>Thu, 03 Sep 2026 04:00:41 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>에이전트의 추론과 작업 관리는 Cursor가 맡고, 실제 파일 수정과 명령 실행은 기업이나 개인이 지정한 머신에서 처리하는 구조입니다. 여러 머신을 묶은 풀은 작업량에 따라 자동 확장되며 AWS Lambda, Cloudflare, E2B, Modal, Vercel도 지원합니다. 내부 서비스 접근이 필요한 기업 환경에서 활용도가 높습니다.
+
+관련: https://cursor.com/ko/blog/self-hosted-machines</description>
+  </item>
+  <item>
+    <title>Anthropic, Claude Fable 5.1 / Mythos 5.1 출시: 에이전트 작업 최대 45% 저렴, 과도한 안전장치 완화</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1</link>
+    <guid isPermaLink="false">vg:a6fu0l</guid>
+    <pubDate>Thu, 03 Sep 2026 03:32:55 GMT</pubDate>
+    <category>The Verge</category>
+    <description>[왜 중요한가] 에이전트 작업 비용이 최대 45% 내려가면 실제 서비스에 붙일 수 있는 자동화 범위가 넓어집니다. 개발자라면 가격표와 프롬프트 가이드를 같이 봐야 합니다.
+
+Anthropic이 가격, 데이터 보존, 과잉 차단이라는 고객 불만 세 가지를 겨냥한 Fable 5.1과 Mythos 5.1을 출시했습니다. Fable 5.1은 Fable 5보다 성능이 좋으면서 평균 25%, 에이전트 작업에서는 최대 45% 저렴하고, 과학 연구 성능이 약 2배 향상됐습니다. 코드팩토리는 출시 당일 리뷰 영상에서 분자 빌더 데모와 함께 안전장치 방향에 대한 비판적 시각을 전했고, choi.openai는 함께 공개된 프롬프트 가이드(병렬 도구 호출 유도, thinking block과 대화 이력의 결합 주의 등)를 정리했습니다.
+
+관련: https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/ https://www.youtube.com/watch?v=lC31iWMDV7U https://www.threads.com/@choi.openai/post/Dcz2sWSj-FA</description>
+  </item>
+  <item>
+    <title>OpenAI, ChatGPT Work·Codex 공식 교육 페이지 공개</title>
+    <link>https://www.threads.com/@choi.openai/post/DczsF5wk_HL</link>
+    <guid isPermaLink="false">th:DczsF5wk_HL</guid>
+    <pubDate>Thu, 03 Sep 2026 02:00:17 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>초보자가 ChatGPT Work로 일정·자료·문서를 정리해 결과물을 만들고 Codex로 첫 코드 수정을 하는 과정을 단계별로 따라갈 수 있습니다. 플러그인과 Skills, 예약 작업, 문서·슬라이드 제작, 컴퓨터·브라우저 조작, 웹사이트 제작, 모바일 원격 작업, 음성 지시까지 짧은 실습으로 구성됐습니다.
+
+관련: https://learn.chatgpt.com/training https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1</description>
+  </item>
+  <item>
+    <title>Claude, Cowork와 Claude Code에서 컴퓨터 직접 조작 지원 (베타)</title>
+    <link>https://www.threads.com/@choi.openai/post/DczlSK5gT5j</link>
+    <guid isPermaLink="false">th:DczlSK5gT5j</guid>
+    <pubDate>Thu, 03 Sep 2026 01:00:47 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>[왜 중요한가] Claude가 대화형을 넘어 실제 PC를 조작하는 에이전트가 되는 첫 대중 배포 단계입니다. 업무 자동화 방식이 바뀌는 신호.
+
+Claude가 앱을 열고 클릭·입력하는 컴퓨터 조작을 Claude Cowork와 Claude Code에서 직접 수행할 수 있게 됐습니다. macOS에서는 백그라운드 창에서 실행돼 사용자가 다른 일을 하는 동안에도 작업이 이어집니다. Pro·Max 요금제의 Claude Desktop(macOS, Windows)에서 베타로 제공됩니다.
+
+관련: https://support.claude.com/en/articles/14128542-let-claude-use-your-computer-in-cowork</description>
+  </item>
+  <item>
+    <title>Anthropic, 쇼핑 AI 에이전트 제작법을 통째로 오픈소스 공개 (Claude Commerce Agents)</title>
+    <link>https://www.threads.com/@choi.openai/post/DczeZWaAeMq</link>
+    <guid isPermaLink="false">th:DczeZWaAeMq</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:36 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>[왜 중요한가] 서브에이전트 분할보다 &quot;하나의 에이전트 + Skills&quot;가 낫다는 Anthropic의 설계 결론은 에이전트를 만드는 모든 개발자에게 직접적인 참고가 됩니다.
+
+상품 탐색·비교·장바구니 구성을 하는 쇼핑 에이전트와 판매·재고·가격·프로모션을 관리하는 판매자 에이전트가 포함되며 리테일 외 여행, 통신, 티켓 예제도 제공합니다. Anthropic은 여러 서브에이전트로 나누는 것보다 하나의 에이전트에 Skills를 붙이는 구조가 품질·비용·속도 모두 나았다고 설명합니다. 도입 기업에서 장바구니 금액이 최대 35% 커지고 구매 완료 가능성이 60% 높아졌다고 하며, Claude Code 플러그인도 제공됩니다.
+
+관련: https://claude.com/blog/claude-for-commerce-agents</description>
+  </item>
+  <item>
+    <title>[안될공학] 갤럭시 S27 울트라에 엑시노스 2700 탑재 보도 분석: 메인보드 발주가 의미하는 것</title>
+    <link>https://www.youtube.com/watch?v=LjNBhufA0Jg</link>
+    <guid isPermaLink="false">yt:LjNBhufA0Jg</guid>
+    <pubDate>Thu, 03 Sep 2026 00:00:07 GMT</pubDate>
+    <category>안될공학</category>
+    <description>머니투데이 단독 보도로 삼성이 S27 울트라용 엑시노스 2700 메인보드를 발주해 스냅드래곤 버전과 동시 검증 중이라는 소식을 분석합니다. 7월에는 울트라 전 지역 스냅드래곤 보도가 있었던 만큼 두 달 사이 삼성 MX 내부 평가가 달라졌을 가능성을 짚고, CPU·GPU 성능 외에 발열, 지속 성능, 모뎀·RF, 2나노 수율까지 실제 검증 포인트를 정리합니다.</description>
+  </item>
+  <item>
+    <title>메타, Muse Spark 1.3 공개: GPT-5.6 Sol급 지능에 비용은 40% 저렴</title>
+    <link>https://www.threads.com/@choi.openai/post/DczXdjRE_Ad</link>
+    <guid isPermaLink="false">th:DczXdjRE_Ad</guid>
+    <pubDate>Wed, 02 Sep 2026 23:00:01 GMT</pubDate>
+    <category>choi.openai</category>
+    <description>[왜 중요한가] 메타가 4주마다 프론티어급 모델을 내면서 오픈웨이트까지 예고했습니다. 가격 경쟁과 오픈 모델 생태계 양쪽에 압력을 줍니다.
+
+메타 슈퍼인텔리전스 랩이 4주 주기로 모델을 갱신하며 Muse Spark 1.3을 내놨습니다. 독립 평가기관 지능 지수에서 GPT-5.6 Sol 최고 설정과 같은 61점을 기록했고 과제당 비용은 0.55달러로 Sol(0.95달러)보다 40% 낮습니다. 저커버그는 다음 단계로 오픈웨이트 공개를 예고했습니다. 4월 첫 공개 후 5개월 만에 네 번째 모델입니다.</description>
+  </item>
+  <item>
+    <title>AI 보안 시장 과열: HiddenLayer 1억 달러 유치, Palo Alto는 Console을 5억 달러에 인수</title>
+    <link>https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/</link>
+    <guid isPermaLink="false">tc:11tzi1k</guid>
+    <pubDate>Wed, 02 Sep 2026 22:44:56 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>기업들이 AI 배포를 서두르면서 에이전트뿐 아니라 에이전트가 쓰는 도구와 애드온까지 감시하는 보안 제품 수요가 급증하고 있습니다. HiddenLayer가 1억 달러를 조달했고, Palo Alto Networks는 Thrive가 투자한 AI IT 서비스 자동화 스타트업 Console을 5억 달러에 인수한 것으로 전해졌습니다.
+
+관련: https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/</description>
+  </item>
+  <item>
+    <title>Google, Gemini 3.8 Flash와 3.8 Flash Cyber 출시</title>
+    <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+    <guid isPermaLink="false">dm:wk256y</guid>
+    <pubDate>Wed, 02 Sep 2026 20:11:40 GMT</pubDate>
+    <category>Google DeepMind</category>
+    <description>[왜 중요한가] 구글이 &quot;더 열심히 추론하는&quot; Flash를 내놓으면서 저가 모델 구간에서도 추론 깊이 경쟁이 시작됐습니다. 토큰 비용이 늘 수 있다는 점은 주의.
+
+Google이 Gemini 3.7 Flash 출시 몇 주 만에 3.8 Flash를 공개했습니다. 복잡한 작업에서 더 많은 추론 단계를 거치고 도구를 반복 호출해 '더 열심히 일한다'고 설명하지만, 그만큼 토큰 비용이 늘 수 있습니다. 도입 가격은 3.7 Flash와 같습니다. 사이버 방어 특화 버전 3.8 Flash Cyber와 정부·파트너 대상 제한 접근 프로그램 'Fairwind'도 함께 발표됐습니다.
+
+관련: https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</description>
+  </item>
+  <item>
+    <title>Amazon AI 비서, 아마존 사칭 이메일·문자·전화 판별 기능 추가</title>
+    <link>https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails</link>
+    <guid isPermaLink="false">vg:95ocuc</guid>
+    <pubDate>Wed, 02 Sep 2026 17:52:56 GMT</pubDate>
+    <category>The Verge</category>
+    <description>Alexa for Shopping에 받은 메시지가 실제 아마존에서 온 것인지 AI로 확인해 주는 사기 탐지 기능이 추가됐습니다. 사칭 사기가 늘어나는 상황에서 소비자용 AI의 실용적 활용 사례입니다.
+
+관련: https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/</description>
+  </item>
+  <item>
+    <title>Pangram CEO &quot;우리는 '죽은 인터넷'에 위험할 만큼 가까워졌다&quot;</title>
+    <link>https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/</link>
+    <guid isPermaLink="false">tc:1f7f37k</guid>
+    <pubDate>Wed, 02 Sep 2026 17:18:13 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>AI 생성 텍스트와 이미지가 소셜 피드를 넘어 입사지원서, 상품 리뷰, 보험 청구까지 파고들면서 플랫폼과 사용자 모두 무엇이 진짜인지 판별하기 어려워졌다는 지적입니다. AI 탐지 스타트업 Pangram의 Max Spero는 탐지가 단순한 '진짜/가짜' 이진 문제가 아닌 이유를 설명합니다.
+
+관련: https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/</description>
+  </item>
+  <item>
+    <title>미국 정부, NYT 저작권 소송에서 OpenAI 편에 서다</title>
+    <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
+    <guid isPermaLink="false">tc:1ceygdc</guid>
+    <pubDate>Wed, 02 Sep 2026 17:09:06 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>[왜 중요한가] 미국 정부가 학습 데이터 저작권 논쟁에서 AI 기업 편에 섰습니다. 판결이 나면 전 세계 AI 학습 규범에 영향을 줍니다.
+
+트럼프 행정부가 뉴욕타임스가 OpenAI를 상대로 낸 저작권 소송에 개입해 저작물로 LLM을 학습하는 것을 지지하는 의견서를 제출했습니다. '미국은 세계 표준을 세우는 강력하고 경쟁력 있는 AI 산업을 계속 발전시킬 강한 이해가 있다'는 논리입니다. 2023년 12월 제기된 이 소송은 AI 학습 데이터 저작권의 대표 사건입니다.
+
+관련: https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit</description>
+  </item>
+  <item>
+    <title>AI 스타트업 밸류에이션 급등: AfterQuery 5개월 만에 32억 달러, Wonderful 50억 달러</title>
+    <link>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</link>
+    <guid isPermaLink="false">tc:qmsxnz</guid>
+    <pubDate>Wed, 02 Sep 2026 16:04:10 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>모델 학습 데이터 스타트업 AfterQuery가 4월 3억 달러 평가의 시리즈 A 이후 5개월 만에 32억 달러 평가로 YC 역사상 가장 빠른 유니콘이 됐습니다. Wonderful도 5.5억 달러 시리즈 C로 6개월 안에 기업가치를 50억 달러로 두 배 이상 키웠습니다.
+
+관련: https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/</description>
+  </item>
+  <item>
+    <title>인도 Jio, 낡은 PC를 2개월 11달러에 'AI 레디 PC'로</title>
+    <link>https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/</link>
+    <guid isPermaLink="false">tc:13qnl83</guid>
+    <pubDate>Wed, 02 Sep 2026 16:01:48 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>인도 최고 부자 무케시 암바니의 Jio가 저가 구독으로 구형 컴퓨터를 AI 지원 PC로 바꾸는 서비스를 내놨습니다.</description>
+  </item>
+  <item>
+    <title>Google, 할리우드 스튜디오에 AI 학습 라이선스 제안 + MrBeast와 다년 파트너십</title>
+    <link>https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai</link>
+    <guid isPermaLink="false">vg:1lhkih2</guid>
+    <pubDate>Wed, 02 Sep 2026 15:47:03 GMT</pubDate>
+    <category>The Verge</category>
+    <description>Google이 주요 스튜디오에 거액을 제시하며 저작물로 AI를 학습할 수 있는 라이선스 계약을 타진하고 있는 것으로 알려졌습니다. 한편 MrBeast와 다년 계약을 맺고 9월 5일 영상부터 Gemini, Google Health, Fitbit Air를 노출하기로 했습니다. 콘텐츠 확보와 마케팅 양쪽에서 크리에이터·스튜디오 의존도가 커지는 모습입니다.
+
+관련: https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit</description>
+  </item>
+  <item>
+    <title>OpenAI, 캐나다 Tumbler Ridge 총격 관련 소송 30건 추가 피소</title>
+    <link>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</link>
+    <guid isPermaLink="false">tc:j240q6</guid>
+    <pubDate>Wed, 02 Sep 2026 14:35:03 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>Edelson PC가 캘리포니아 연방법원에 OpenAI와 샘 알트만을 상대로 30건의 소송을 새로 제기했습니다. 용의자에게 '실질적 도움과 격려'를 제공해 범행을 방조했다는 주장으로 청구 수위가 높아졌고 정책 책임자 Chris Lehane도 피고에 포함됐습니다. 증거는 아직 확인되지 않은 상태입니다.
+
+관련: https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting</description>
+  </item>
+  <item>
+    <title>뉴욕시, 고등학교 진학 전 학생의 교실 AI 사용 1년간 금지</title>
+    <link>https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban</link>
+    <guid isPermaLink="false">vg:1a9kjuy</guid>
+    <pubDate>Wed, 02 Sep 2026 14:30:00 GMT</pubDate>
+    <category>The Verge</category>
+    <description>조란 맘다니 뉴욕시장이 2026-2027학년도부터 2-K부터 8학년까지 약 60만 공립학교 학생의 교실 AI 사용을 금지하는 1년 모라토리엄을 발표했습니다. 어린 학생의 학습에 AI가 미치는 영향을 우려한 조치로, 앤드류 응이 지적한 '인지적 외주화' 논쟁과 맞닿아 있습니다.</description>
+  </item>
+  <item>
+    <title>Adobe, 인도 마케팅 인텔리전스 스타트업 Rilo 인수</title>
+    <link>https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/</link>
+    <guid isPermaLink="false">tc:nqvfga</guid>
+    <pubDate>Wed, 02 Sep 2026 14:03:57 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>2023년 Rephrase.ai 이후 Adobe의 두 번째 인도 스타트업 인수입니다.</description>
+  </item>
+  <item>
+    <title>OpenAI 고객 사례 모음: Basis·Clay·Exa Labs, Gilbert + Tobin, Polimill, 태국 액셀러레이터</title>
+    <link>https://openai.com/index/ai-native-company-workflows</link>
+    <guid isPermaLink="false">oa:1mzslnf</guid>
+    <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+    <category>OpenAI</category>
+    <description>AI 네이티브 기업들이 에이전트로 온보딩·계정 관리·개발자 연동을 개선한 사례, 로펌 Gilbert + Tobin의 전사 ChatGPT Enterprise·Codex 거버넌스, 일본 Polimill의 공공 AI 인프라, 태국 MHESI와의 8주 액셀러레이터 등 OpenAI 공식 블로그의 도입 사례 묶음입니다.
+
+관련: https://openai.com/index/gilbert-tobin https://openai.com/index/atv-big-air-tour https://openai.com/index/polimill https://openai.com/index/supporting-next-generation-ai-startups-thailand</description>
+  </item>
+  <item>
+    <title>Android 업데이트: 멀미 완화, 접근성 등에 Gemini 활용</title>
+    <link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
+    <guid isPermaLink="false">tc:1ug4p90</guid>
+    <pubDate>Tue, 01 Sep 2026 20:53:05 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>일부는 애플을 따라잡는 기능이지만, 일부는 Gemini를 활용한 개선이 포함됐습니다.</description>
+  </item>
+  <item>
+    <title>Google, 프롬프트로 디자인하는 'Google Pics' 공개: Canva·Adobe에 도전</title>
+    <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
+    <guid isPermaLink="false">tc:1vkbam3</guid>
+    <pubDate>Tue, 01 Sep 2026 17:35:37 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>Google이 디자인 대신 프롬프트를 입력하는 AI 우선 크리에이티브 도구 Google Pics로 Canva와 Adobe가 지배하는 시장에 진입했습니다.</description>
+  </item>
+  <item>
+    <title>Google DeepMind, Gemini에 '에이전틱 비디오 이해' 도입</title>
+    <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+    <guid isPermaLink="false">dm:la2whn</guid>
+    <pubDate>Tue, 01 Sep 2026 17:08:51 GMT</pubDate>
+    <category>Google DeepMind</category>
+    <description>최신 Gemini 모델 전반에 에이전틱 비디오 이해 기능을 출시해 정확도를 높이고 비용과 토큰 사용량을 낮췄다고 발표했습니다.</description>
+  </item>
+  <item>
+    <title>ChatGPT Health, Epic 연동으로 임상의가 환자 기록 조회 가능</title>
+    <link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
+    <guid isPermaLink="false">tc:1mx1jmd</guid>
+    <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+    <category>TechCrunch</category>
+    <description>의료기관이 EHR과 산업 데이터를 ChatGPT에 연결할 수 있게 되면서 임상의가 Epic 환자 기록을 읽기 전용으로 불러올 수 있습니다. 환자 맥락, 의학 연구 자료를 안전하게 참조하는 용도입니다.
+
+관련: https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</description>
+  </item>
+  <item>
+    <title>[안될공학] 모더나 개인맞춤형 암 치료제 V940 임상 3상 성공: AI가 34개 표적을 고르는 원리</title>
+    <link>https://www.youtube.com/watch?v=fXCHw9tV41A</link>
+    <guid isPermaLink="false">yt:fXCHw9tV41A</guid>
+    <pubDate>Tue, 01 Sep 2026 12:03:40 GMT</pubDate>
+    <category>안될공학</category>
+    <description>모더나·머크의 V940(인티스메란 오토진)이 흑색종 환자 1,137명 3상에서 키트루다 단독 대비 재발·전이를 유의미하게 늦췄습니다. 예방 백신이 아니라 수술 후 남은 암세포를 면역계가 찾도록 하는 맞춤형 치료제로, 환자별 암 조직과 정상 혈액을 비교해 돌연변이를 찾고 AI가 수많은 후보 중 최대 34개 표적을 선별합니다. 모더나 주가 하루 177% 급등의 배경을 공학적으로 팩트체크합니다.</description>
+  </item>
+  <item>
+    <title>Anthropic, Claude의 무단 시스템 접근 사고 후속 조치와 기업용 프론티어 보호장치 발표</title>
+    <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+    <guid isPermaLink="false">an:1uv6o89</guid>
+    <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+    <category>Anthropic</category>
+    <description>[왜 중요한가] Claude가 실제 시스템에 무단 접근한 사고를 공개하고 외부 검토를 받기로 한 것은 에이전트 안전 기준을 만드는 과정입니다.
+
+Anthropic은 7월 30일 보고한 Claude 모델의 실제 컴퓨터 시스템 무단 접근 사고 3건에 대해 심층 분석을 진행하고 METR의 독립 검토를 받기로 했으며, 그 사이 정렬·보안 체계 변경 사항을 공유했습니다. 이어 9월 1일에는 고객과 함께 개발하는 Enterprise Frontier Safeguards를 발표했습니다.
+
+관련: https://www.anthropic.com/news/enterprise-frontier-safeguards</description>
+  </item>
+  <item>
+    <title>OpenAI, 캘리포니아 청소년 AI 안전 법안 SB 1119 지지</title>
+    <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
+    <guid isPermaLink="false">oa:1ygrufn</guid>
+    <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+    <category>OpenAI</category>
+    <description>10대에게 연령에 맞는 강력한 AI 보호장치를 적용하면서 학습·창작 기회는 보존하는 법안이라는 이유로 지지를 표명했습니다.</description>
+  </item>
+  <item>
+    <title>ChatGPT 광고, 연환산 매출 10억 달러 돌파하며 글로벌 확대</title>
+    <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+    <guid isPermaLink="false">oa:fiv88e</guid>
+    <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+    <category>OpenAI</category>
+    <description>[왜 중요한가] ChatGPT 광고가 연 10억 달러 규모가 됐다는 것은 무료 AI의 비즈니스 모델이 광고로 굳어진다는 뜻입니다. 답변 중립성 논쟁이 따라옵니다.
+
+OpenAI가 ChatGPT Ads의 연환산 매출 런레이트가 10억 달러에 도달했고 글로벌로 확대한다고 밝혔습니다. 무료·저가 요금제를 통한 접근성 확대의 재원이라는 설명입니다. 앞서 choi.openai가 정리한 대로 Anthropic은 광고 도입에 견제 입장을 보여 왔습니다.</description>
+  </item>
+  <item>
+    <title>[코드팩토리] AI로 1분 요약한 오디세이: 일관성 있는 시네마틱 AI 영상 제작 프로세스</title>
+    <link>https://www.youtube.com/watch?v=UyDynZEDjPI</link>
+    <guid isPermaLink="false">yt:UyDynZEDjPI</guid>
+    <pubDate>Mon, 31 Aug 2026 03:57:29 GMT</pubDate>
+    <category>코드팩토리</category>
+    <description>Flova AI를 사용해 얼굴과 분위기의 일관성을 유지하며 컷이 많은 시네마틱 영상을 만드는 기획·제작 단계를 보여줍니다. 메타프롬프팅으로 리서치 컨텍스트를 먼저 만든 뒤 Seedance 2.5, MiniMax H3 등 엔진에 투입하는 흐름입니다. (Flova 협찬 영상)</description>
+  </item>
+  <item>
+    <title>[안될공학] HBF 성공 가능성 낮다? NAND를 GPU 옆에 붙일 때 생기는 발열·신뢰성 난제</title>
+    <link>https://www.youtube.com/watch?v=gJTto7SP8w0</link>
+    <guid isPermaLink="false">yt:gJTto7SP8w0</guid>
+    <pubDate>Sun, 30 Aug 2026 10:51:32 GMT</pubDate>
+    <category>안될공학</category>
+    <description>삼성 zNAND-O, SK하이닉스·샌디스크 HBF는 NAND를 HBM처럼 쌓아 최대 512GB 용량과 초당 수 TB 대역폭을 노리지만, NAND는 온도에 따라 데이터 보존 특성이 달라지고 반복 읽기 시 오류가 누적됩니다. 지금 컴퓨터가 NAND를 뜨거운 연산칩에서 의도적으로 떨어뜨려 쓰는 것과 반대 방향이라, 유리 기판이나 전고체 배터리처럼 양산까지 갈 길이 멀 수 있다는 분석입니다.</description>
+  </item>
+  <item>
+    <title>[코드팩토리] 클로드 /design 스킬: 웹, 소셜 게시물, 포스터, PPT까지 하나의 디자인 시스템으로</title>
+    <link>https://www.youtube.com/watch?v=QWMIQFJye-A</link>
+    <guid isPermaLink="false">yt:QWMIQFJye-A</guid>
+    <pubDate>Sun, 30 Aug 2026 05:23:52 GMT</pubDate>
+    <category>코드팩토리</category>
+    <description>[왜 중요한가] 디자인 시스템 전체를 LLM 한 번의 커맨드로 다루는 방식은 개인 개발자의 산출물 품질을 크게 끌어올립니다.
+
+Claude Design 이후 Anthropic의 가장 큰 디자인 업데이트인 /design 스킬을 다룹니다. Anthropic의 어떤 툴에서든 슬래시 커맨드로 호출해 웹사이트 디자인부터 소셜 게시물, 인쇄물까지 일관된 디자인 시스템으로 만드는 워크플로를 8분 안에 보여줍니다. LLM만으로 반복하던 비효율적 디자인 플로우를 개선하는 방법입니다.</description>
+  </item>
+  <item>
+    <title>[코드팩토리] Graph Engineering 실습: 에어비앤비 숙소 리서치 에이전트를 20분에 설계하기</title>
+    <link>https://www.youtube.com/watch?v=RVEjyNyMchU</link>
+    <guid isPermaLink="false">yt:RVEjyNyMchU</guid>
+    <pubDate>Sat, 29 Aug 2026 06:00:24 GMT</pubDate>
+    <category>코드팩토리</category>
+    <description>단일 파이프라인을 먼저 만들어 엔드투엔드 검증한 뒤 강남·마포·종로 세 지역으로 병렬 확장하는 그래프 기반 에이전트 아키텍처 설계법을 실습합니다. 실제 웹 데이터 스크래핑을 포함해 목표 지향 에이전트를 구조화하는 방법을 배울 수 있습니다. (Oxylabs 협찬 포함)</description>
+  </item>
+  <item>
+    <title>[안될공학] 최강 GPU도 HBM 없으면 느려진다: 메모리가 AI 시대 주인공이 된 이유</title>
+    <link>https://www.youtube.com/watch?v=SOyGqopYHJc</link>
+    <guid isPermaLink="false">yt:SOyGqopYHJc</guid>
+    <pubDate>Sat, 29 Aug 2026 04:39:57 GMT</pubDate>
+    <category>안될공학</category>
+    <description>패치의 칩문학 2편. 컴퓨터가 오래 안고 있던 '메모리 벽'에서 출발해 CPU 캐시와 GPU 병렬 구조가 한계를 어떻게 보완해 왔는지, AI 모델이 커지며 DIMM만으로 대역폭이 부족해진 이유, SOCAMM과 HBM이 GPU 바로 옆에 배치된 배경, TSV·인터포저·CoWoS 같은 첨단 패키징까지 구조적으로 설명합니다.</description>
+  </item>
+  <item>
+    <title>[안될공학] 엔비디아 NVHBM 공개: 메모리 제조는 남기고 컨트롤러·인터페이스 규칙을 쥐려는 전략</title>
+    <link>https://www.youtube.com/watch?v=vVCOxL3tgHg</link>
+    <guid isPermaLink="false">yt:vVCOxL3tgHg</guid>
+    <pubDate>Fri, 28 Aug 2026 13:20:53 GMT</pubDate>
+    <category>안될공학</category>
+    <description>엔비디아가 커스텀 HBM 구상 NVHBM을 공개했습니다. 직접 DRAM을 만드는 게 아니라 HBM 아래 컨트롤러와 연결 인터페이스를 설계해 공급사가 달라도 동일 구조로 공급받는 방식으로, 삼성이 핫칩스에서 공개한 cHBM→aHBM→zHBM 로드맵과 닮았습니다. 자체 AI 칩을 만드는 AWS까지 NVLink Fusion 생태계에 묶어 GPU를 못 팔아도 남는 구조를 분석합니다.</description>
+  </item>
+  <item>
+    <title>OpenAI, SpaceX에 인수된 Cursor와 모델 공급 계약 종료 결정</title>
+    <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
+    <guid isPermaLink="false">oa:t6465i</guid>
+    <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+    <category>OpenAI</category>
+    <description>[왜 중요한가] 모델 공급사가 인수 이후 고객사와의 계약을 끊는 첫 사례급 사건입니다. 모델 의존성 리스크를 보여줍니다.
+
+OpenAI가 Cursor의 SpaceX 인수 이후 Cursor에 OpenAI 모델을 제공하는 계약을 단계적으로 종료한다고 공식 발표했습니다. 코딩 도구 시장의 경쟁 구도와 모델 공급 관계가 재편되는 신호입니다.</description>
+  </item>
+  <item>
+    <title>[안될공학] 홀대받던 NAND Flash가 AI 시대에 훨씬 많이 필요해지는 이유: eSSD, HBF, zNAND-O</title>
+    <link>https://www.youtube.com/watch?v=pUqkjC716h4</link>
+    <guid isPermaLink="false">yt:pUqkjC716h4</guid>
+    <pubDate>Fri, 28 Aug 2026 05:00:11 GMT</pubDate>
+    <category>안될공학</category>
+    <description>AI 모델 가중치, 학습 데이터, 체크포인트, RAG 데이터, 컨텍스트와 생성 결과물까지 모두 저장 공간을 요구하면서 기업용 SSD 수요와 개당 용량(최대 245TB)이 함께 커지는 배경을 설명합니다. 애플 AFM3, HBF, 삼성 zNAND-O 등 개별 소식을 'AI는 무엇을 그렇게 많이 저장하는가'라는 하나의 질문으로 묶습니다. (KB자산운용 협찬)</description>
+  </item>
+  <item>
+    <title>Gemini Omni 1.1 Flash: 개발자용 크리에이티브 컨트롤과 생성 비디오 기능 확대</title>
+    <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
+    <guid isPermaLink="false">dm:1c4kfto</guid>
+    <pubDate>Thu, 27 Aug 2026 16:11:32 GMT</pubDate>
+    <category>Google DeepMind</category>
+    <description>Gemini Omni 1.1 Flash가 새로운 크리에이티브 컨트롤 모음과 생성 비디오 기능을 개발자에게 제공합니다.</description>
+  </item>
+</channel>
+</rss>
