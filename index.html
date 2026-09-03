@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 소식 데일리</title>
+<meta name="description" content="유튜브(조코딩, 코드팩토리, 안될공학, 테디노트), Threads(choi.openai), TechCrunch, The Verge, OpenAI, Anthropic, Google DeepMind에서 매일 수집한 AI 소식을 중요도 순으로 정리합니다.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <span class="logo">AI</span>
+      <div>
+        <h1>AI 소식 데일리</h1>
+        <p class="sub">유튜브 · Threads · 해외 뉴스 · 공식 블로그를 매일 아침 8시에 모아 중요도 순으로 정리</p>
+      </div>
+    </div>
+    <div class="meta">
+      <span id="updated">불러오는 중...</span>
+      <span id="count"></span>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs wrap" role="tablist">
+  <button class="tab active" data-range="day">오늘 <small>24시간</small></button>
+  <button class="tab" data-range="week">이번 주 <small>7일</small></button>
+  <button class="tab" data-range="month">이번 달 <small>30일</small></button>
+  <button class="tab" data-range="all">전체 아카이브</button>
+</nav>
+
+<section class="controls wrap">
+  <div class="chips" id="sourceChips"></div>
+  <div class="right">
+    <select id="sort" aria-label="정렬">
+      <option value="importance">중요도 순</option>
+      <option value="date">최신 순</option>
+    </select>
+    <input id="q" type="search" placeholder="검색 (제목, 요약, 태그)">
+  </div>
+</section>
+
+<main class="wrap">
+  <h2 id="topTitle" class="section-title" hidden>주요 소식</h2>
+  <section id="top" class="topPicks"></section>
+  <h2 id="listTitle" class="section-title" hidden></h2>
+  <section id="list" class="list"></section>
+  <p id="empty" class="empty" hidden>이 기간에 해당하는 소식이 없습니다.</p>
+</main>
+
+<footer class="wrap foot">
+  <p>수집 소스: 유튜브 조코딩 · 코드팩토리 · 안될공학 · 테디노트 / Threads @choi.openai / TechCrunch AI · The Verge AI / OpenAI · Anthropic · Google DeepMind 공식 뉴스. 요약은 AI가 작성한 것이므로 정확한 내용은 원문 링크를 확인하세요.</p>
+</footer>
+
+<template id="cardTpl">
+  <article class="card">
+    <a class="thumb" target="_blank" rel="noopener"><img loading="lazy" alt=""></a>
+    <div class="body">
+      <div class="line">
+        <span class="badge"></span>
+        <span class="sources"></span>
+        <span class="time"></span>
+        <span class="score" title="중요도"></span>
+      </div>
+      <h3><a target="_blank" rel="noopener"></a></h3>
+      <p class="summary"></p>
+      <div class="tags"></div>
+      <div class="related"></div>
+    </div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

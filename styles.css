@@ -1,0 +1,96 @@
+:root {
+  --bg: #0b0f17;
+  --panel: #121826;
+  --panel-2: #182033;
+  --line: #232c42;
+  --text: #e8ecf5;
+  --muted: #94a0b8;
+  --accent: #6ea8ff;
+  --accent-2: #9b7bff;
+  --hot: #ff6b6b;
+  --yt: #ff3d3d;
+  --th: #e6e6e6;
+  --news: #3dd68c;
+  --official: #ffb347;
+  --radius: 14px;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--text); font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", system-ui, sans-serif; line-height: 1.55; }
+a { color: inherit; text-decoration: none; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+
+.top { background: linear-gradient(180deg, #111827 0%, var(--bg) 100%); border-bottom: 1px solid var(--line); padding: 28px 0 18px; }
+.top .wrap { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; }
+.brand { display: flex; gap: 14px; align-items: center; }
+.logo { display: inline-grid; place-items: center; width: 52px; height: 52px; border-radius: 14px; font-weight: 900; font-size: 20px; background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #0b0f17; letter-spacing: -1px; }
+h1 { margin: 0; font-size: 26px; font-weight: 900; letter-spacing: -0.5px; }
+.sub { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
+.meta { color: var(--muted); font-size: 13px; display: flex; gap: 12px; }
+
+.tabs { display: flex; gap: 6px; margin-top: 18px; overflow-x: auto; }
+.tab { background: var(--panel); border: 1px solid var(--line); color: var(--muted); padding: 10px 16px; border-radius: 999px; cursor: pointer; font: inherit; font-weight: 700; white-space: nowrap; }
+.tab small { font-weight: 400; margin-left: 4px; opacity: .7; }
+.tab.active { background: var(--text); color: #0b0f17; border-color: var(--text); }
+
+.controls { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin: 14px auto 6px; flex-wrap: wrap; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chip { background: transparent; border: 1px solid var(--line); color: var(--muted); padding: 5px 11px; border-radius: 999px; cursor: pointer; font: inherit; font-size: 12.5px; }
+.chip.active { border-color: var(--accent); color: var(--text); background: rgba(110,168,255,.12); }
+.right { display: flex; gap: 8px; }
+select, input[type=search] { background: var(--panel); border: 1px solid var(--line); color: var(--text); padding: 8px 12px; border-radius: 10px; font: inherit; font-size: 13.5px; }
+input[type=search] { min-width: 220px; }
+
+.section-title { margin: 22px 0 10px; font-size: 15px; font-weight: 800; color: var(--muted); letter-spacing: .02em; display: flex; align-items: center; gap: 8px; }
+.section-title::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+.topPicks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 16px; }
+.topPicks .card { flex-direction: column; }
+.topPicks .card .thumb { aspect-ratio: 16/9; width: 100%; }
+.topPicks .card:first-child { grid-column: span 3; flex-direction: row; }
+.topPicks .card:first-child .thumb { width: 46%; aspect-ratio: 16/10; }
+.topPicks .card:first-child h3 { font-size: 22px; }
+.topPicks .card:first-child .summary { -webkit-line-clamp: 6; }
+
+.list { display: grid; gap: 12px; margin-top: 8px; }
+.card { display: flex; gap: 16px; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; transition: border-color .15s, transform .15s; }
+.card:hover { border-color: #34405f; transform: translateY(-1px); }
+.thumb { flex: 0 0 240px; aspect-ratio: 16/10; background: var(--panel-2); overflow: hidden; position: relative; }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.thumb.noimg::before { content: attr(data-initial); position: absolute; inset: 0; display: grid; place-items: center; font-weight: 900; font-size: 40px; color: #34405f; }
+.body { padding: 14px 16px 14px 0; display: flex; flex-direction: column; gap: 6px; min-width: 0; flex: 1; }
+.topPicks .body { padding: 14px 16px; }
+.line { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+.badge { font-weight: 800; padding: 2px 8px; border-radius: 6px; color: #0b0f17; font-size: 11.5px; }
+.badge.youtube { background: var(--yt); color: #fff; }
+.badge.threads { background: var(--th); }
+.badge.news { background: var(--news); }
+.badge.official { background: var(--official); }
+.time { margin-left: auto; }
+.score { display: inline-flex; align-items: center; gap: 4px; font-weight: 800; color: var(--text); }
+.score::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+.score.hot::before { background: var(--hot); box-shadow: 0 0 10px var(--hot); }
+h3 { margin: 0; font-size: 17px; line-height: 1.4; font-weight: 800; letter-spacing: -0.2px; }
+h3 a:hover { color: var(--accent); }
+.summary { margin: 0; color: #c5cde0; font-size: 14px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.card.open .summary { -webkit-line-clamp: unset; }
+.tags { display: flex; gap: 6px; flex-wrap: wrap; }
+.tag { font-size: 11.5px; color: var(--muted); background: var(--panel-2); padding: 2px 8px; border-radius: 6px; }
+.related { display: flex; flex-direction: column; gap: 2px; font-size: 12.5px; }
+.related a { color: var(--accent); display: inline-flex; gap: 6px; align-items: center; }
+.related a::before { content: "↗"; opacity: .7; }
+.related a:hover { text-decoration: underline; }
+.day { margin: 26px 0 8px; font-weight: 900; font-size: 16px; color: var(--muted); }
+.empty { color: var(--muted); text-align: center; margin: 60px 0; }
+.foot { color: var(--muted); font-size: 12px; margin: 50px auto 30px; border-top: 1px solid var(--line); padding-top: 16px; }
+
+@media (max-width: 800px) {
+  .topPicks { grid-template-columns: 1fr; }
+  .topPicks .card:first-child { grid-column: span 1; flex-direction: column; }
+  .topPicks .card:first-child .thumb { width: 100%; }
+  .card { flex-direction: column; }
+  .thumb { flex: none; width: 100%; }
+  .body { padding: 12px 14px 14px; }
+  .time { margin-left: 0; }
+  input[type=search] { min-width: 0; width: 100%; }
+  .right { width: 100%; }
+}
