@@ -131,7 +131,7 @@
     const latest = items.filter(i => i.collectedAt === state.latestBatch);
     const today = inRange(items);
     const upd = new Date(data.updatedAt);
-    $('#updated').textContent = `마지막 업데이트 ${upd.toLocaleString('ko-KR', { timeZone: KST, month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' })} · 매일 08:00 갱신`;
+    $('#updated').textContent = `마지막 업데이트 ${upd.toLocaleString('ko-KR', { timeZone: KST, month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' })} · 매시간 갱신`;
     $('#digestTitle').textContent = `${upd.toLocaleDateString('ko-KR', { timeZone: KST, month: 'long', day: 'numeric' })} AI 소식`;
     const must = items.filter(i => i.importance >= 9 && (Date.now() - new Date(i.publishedAt)) < 7 * 864e5).length;
     $('#digestSub').textContent = `누적 ${items.length}건 · 24시간 내 ${today.length}건 · 이번 주 필독 ${must}건 · 소스 ${new Set(items.flatMap(i => i.sources || [i.sourceName])).size}곳`;
