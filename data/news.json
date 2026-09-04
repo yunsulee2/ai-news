@@ -1,7 +1,122 @@
 {
- "updatedAt": "2026-09-03T23:02:28.924Z",
- "count": 55,
+ "updatedAt": "2026-09-04T03:28:37.992Z",
+ "count": 62,
  "items": [
+  {
+   "id": "th:Dc18zIWmhCe",
+   "sourceIds": [
+    "th:Dc18zIWmhCe",
+    "yt:D5WGzK-Twfo",
+    "th:Dc2DNhdAVpu",
+    "th:Dc2Q2kSkWwS"
+   ],
+   "title": "GPT-6 Astra 후속: ARC-AGI-3 7.8%→99.9%, 브록먼 \"AGI가 만들어진 시점이라면 이 모델\", API는 Sol의 2.5배 가격",
+   "originalTitle": "🚨 속보) 와.. 미친.. 오픈AI가 GPT-6 Astra를 출시했습니다.",
+   "summary": "choi.openai가 정리한 출시 요약에 따르면 GPT-6 Astra는 Stargate에서 GPU 10만 장 이상을 돌린 OpenAI 역대 최대 훈련의 결과물로, 반년 전 GPT-5.6 Sol이 7.8%였던 ARC-AGI-3를 99.9%까지 끌어올렸습니다. 컴퓨터 사용, 브라우징, 소프트웨어 엔지니어링, 사이버보안, 과학, 전문직 업무 여섯 영역 최고 성능을 주장하며, 첫날은 일부 기관에만 열리고 며칠 안에 ChatGPT Plus·Pro·Business·Enterprise와 API, AWS Bedrock으로 확대됩니다. API 가격은 입력 100만 토큰당 10달러, 출력 50달러로 Sol의 2.5배. 코드팩토리는 출시 당일 리뷰에서 Terminal-Bench 기준 같은 가격에 Fable 5.1의 약 3배 성능이라는 주장과 화면 인식(ScreenSpot Pro) 벤치마크 향상에 주목하면서, 브라우저 자동화가 안 되는 영역까지 컴퓨터 조작 자동화가 넓어질 것으로 봤습니다. 단, Fable 5.1 출시 직후 '선택된 파트너'에게만 먼저 공개한 점은 아쉽다고 평했습니다.",
+   "why": "출시 소식(중요도 9)에 이어 숫자가 나왔습니다. 같은 가격에서 Fable 5.1 대비 3배 성능이라는 주장과 컴퓨터 조작 벤치마크의 도약은 에이전트 자동화 지형을 바꿀 수 있어서, 며칠 뒤 Plus/API에 풀리면 직접 검증할 가치가 있습니다.",
+   "importance": 9,
+   "tags": [
+    "OpenAI",
+    "GPT-6 Astra",
+    "벤치마크",
+    "가격",
+    "ARC-AGI-3",
+    "코드팩토리"
+   ],
+   "source": "threads",
+   "sourceName": "choi.openai",
+   "type": "post",
+   "sources": [
+    "choi.openai",
+    "코드팩토리"
+   ],
+   "url": "https://www.threads.com/@choi.openai/post/Dc18zIWmhCe",
+   "image": "img/th_Dc18zIWmhCe.jpg",
+   "imageLocal": true,
+   "related": [
+    {
+     "label": "코드팩토리: 생태계를 박살낼 생각인 GPT 6 Astra",
+     "url": "https://www.youtube.com/watch?v=D5WGzK-Twfo"
+    },
+    {
+     "label": "choi.openai: 이게 말이 되나..",
+     "url": "https://www.threads.com/@choi.openai/post/Dc2DNhdAVpu"
+    },
+    {
+     "label": "choi.openai: 오픈AI는 신이다.",
+     "url": "https://www.threads.com/@choi.openai/post/Dc2Q2kSkWwS"
+    }
+   ],
+   "publishedAt": "2026-09-04T02:04:28+00:00",
+   "firstPublishedAt": "2026-09-03T23:05:54.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
+   "meta": {}
+  },
+  {
+   "id": "tc:yfvgd4",
+   "sourceIds": [
+    "tc:yfvgd4"
+   ],
+   "title": "AI 데이터센터 개발사 Crusoe, 300억 달러 가치로 30억 달러 조달",
+   "originalTitle": "Crusoe reportedly raises $3B at a  $30B valuation",
+   "summary": "Meta, Microsoft, OpenAI를 고객으로 둔 데이터센터 개발사 Crusoe가 Atreides Management와 Valor Equity Partners 공동 주도로 30억 달러를 조달해 기업가치 300억 달러를 인정받았다고 Bloomberg가 전했습니다. 퀀트 트레이딩 회사 Jane Street와 5년간 130억 달러 규모 클라우드 계약을 맺은 직후입니다. 머스크가 G20에서 짚은 '전력·인프라 병목'에 자본이 몰리는 모습입니다.",
+   "why": "",
+   "importance": 5,
+   "tags": [
+    "Crusoe",
+    "데이터센터",
+    "투자",
+    "인프라"
+   ],
+   "source": "news",
+   "sourceName": "TechCrunch",
+   "type": "article",
+   "sources": [
+    "TechCrunch"
+   ],
+   "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+   "imageLocal": false,
+   "related": [],
+   "publishedAt": "2026-09-04T00:48:42.000Z",
+   "firstPublishedAt": "2026-09-04T00:48:42.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
+   "meta": {}
+  },
+  {
+   "id": "yt:nYlCKEN3aDw",
+   "sourceIds": [
+    "yt:nYlCKEN3aDw"
+   ],
+   "title": "[조코딩] \"AI 교육은 이벤트고, AX는 시스템이다\": 조코딩AX파트너스 웨비나 (70분)",
+   "originalTitle": "AI 교육은 이벤트고, AX는 시스템이다 | 조코딩AX파트너스 웨비나",
+   "summary": "기업의 AI 전환(AX)을 검토하는 담당자를 대상으로 한 라이브 웨비나입니다. 일회성 AI 교육이 아니라 업무 시스템으로 정착시키는 방법을 다루며, 다시보기와 리포트는 신청자에게 이메일로 제공됩니다. 조코딩AX파트너스의 교육 사업 소개 성격이 강한 콘텐츠라 참고용으로 분류했습니다.",
+   "why": "",
+   "importance": 4,
+   "tags": [
+    "조코딩",
+    "AX",
+    "기업 교육",
+    "웨비나"
+   ],
+   "source": "youtube",
+   "sourceName": "조코딩",
+   "type": "video",
+   "sources": [
+    "조코딩"
+   ],
+   "url": "https://www.youtube.com/watch?v=nYlCKEN3aDw",
+   "image": "https://i.ytimg.com/vi/nYlCKEN3aDw/hqdefault.jpg",
+   "imageLocal": false,
+   "related": [],
+   "publishedAt": "2026-09-03T23:37:27.000Z",
+   "firstPublishedAt": "2026-09-03T23:37:27.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
+   "meta": {
+    "durationSeconds": 4189,
+    "viewCount": 11769
+   }
+  },
   {
    "id": "tc:5ensvu",
    "sourceIds": [
@@ -30,6 +145,48 @@
    "publishedAt": "2026-09-03T19:36:29.000Z",
    "firstPublishedAt": "2026-09-03T19:36:29.000Z",
    "collectedAt": "2026-09-03T23:00:48.119Z",
+   "meta": {}
+  },
+  {
+   "id": "th:Dc1gzR2j6yr",
+   "sourceIds": [
+    "th:Dc1gzR2j6yr",
+    "th:Dc1MNdXjrmA"
+   ],
+   "title": "머스크 \"내년이면 소프트웨어 작성에서 인간이 AI와 경쟁하는 것은 불가능\": 스톡피시 수준 예측",
+   "originalTitle": "일론 머스크는 내년쯤 AI 소프트웨어가 세계 챔피언을 쉽게 꺾는 체스 프로그램처럼 인간의 능력을 압도하는 “스톡피시(Stockfish) 수준”에 도달할 것이라고 예측했습니다.",
+   "summary": "G20 혁신 회의 발언 후속입니다. 머스크는 내년쯤 AI가 체스의 스톡피시처럼 인간을 압도하는 수준에 도달해 코딩에서 인간 개발자를 완전히 앞서고, 12~18개월 안에 모든 엔지니어링과 디지털 작업 전반으로 확대될 것이라고 전망했습니다. 자율주행과 휴머노이드가 본격화되면 세계 경제가 연 20~30조 달러 더 성장할 것이라며 '원자를 손으로 다루는 일이 아니라면 디지털 영역의 모든 일은 AI가 처리하게 될 것'이고 그 시점이 이르면 내년 말이라고 했습니다.",
+   "why": "",
+   "importance": 6,
+   "tags": [
+    "일론 머스크",
+    "G20",
+    "코딩",
+    "일자리",
+    "전망"
+   ],
+   "source": "threads",
+   "sourceName": "choi.openai",
+   "type": "post",
+   "sources": [
+    "choi.openai"
+   ],
+   "url": "https://www.threads.com/@choi.openai/post/Dc1gzR2j6yr",
+   "image": "img/th_Dc1gzR2j6yr.jpg",
+   "imageLocal": true,
+   "related": [
+    {
+     "label": "choi.openai: 일론 머스크는 AI와 로보틱스가 가져올 생산성 혁신을 강조하며, 과거에 갇히기보다 “신기술을 적극적으로 시도하고 수용하는 자세”가 중요하다",
+     "url": "https://www.threads.com/@choi.openai/post/Dc1MNdXjrmA"
+    },
+    {
+     "label": "www.youtube.com/watch?v=9JmlDV8TN3U",
+     "url": "https://www.youtube.com/watch?v=9JmlDV8TN3U"
+    }
+   ],
+   "publishedAt": "2026-09-03T19:00:06.000Z",
+   "firstPublishedAt": "2026-09-03T19:00:06.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
    "meta": {}
   },
   {
@@ -134,6 +291,81 @@
    "publishedAt": "2026-09-03T18:01:45.000Z",
    "firstPublishedAt": "2026-09-03T18:01:45.000Z",
    "collectedAt": "2026-09-03T23:00:48.119Z",
+   "meta": {}
+  },
+  {
+   "id": "th:Dc1Z_L7kpcu",
+   "sourceIds": [
+    "th:Dc1Z_L7kpcu"
+   ],
+   "title": "ByteDance Seed, 실제 영상을 편집 가능한 3D 시뮬레이션으로 바꾸는 'Lucida' 공개",
+   "originalTitle": "ByteDance Seed 연구진이 실제 공간 영상을 편집 가능한 3D 시뮬레이션 환경으로 바꾸는 Lucida를 공개했습니다.",
+   "summary": "영상을 통째로 3D로 복원하는 대신 장면 속 물체를 각각 구분하고 여러 시점의 이미지·마스크·포인트클라우드를 모아 가려진 부분까지 포함한 완전한 3D 물체를 생성합니다. GizmoAct라는 VLM 기반 방식으로 실제 영상과 비교하며 위치·회전을 반복 수정해, 의자나 책상을 하나의 3D 장면 안에서 따로 이동·편집할 수 있습니다. 로봇 시뮬레이션처럼 실제 공간을 수정 가능한 디지털 환경으로 옮기는 작업에 쓰일 수 있습니다.",
+   "why": "",
+   "importance": 5,
+   "tags": [
+    "ByteDance",
+    "Lucida",
+    "3D",
+    "로봇 시뮬레이션",
+    "연구"
+   ],
+   "source": "threads",
+   "sourceName": "choi.openai",
+   "type": "post",
+   "sources": [
+    "choi.openai"
+   ],
+   "url": "https://www.threads.com/@choi.openai/post/Dc1Z_L7kpcu",
+   "image": "img/th_Dc1Z_L7kpcu.jpg",
+   "imageLocal": true,
+   "related": [
+    {
+     "label": "lucida-r2s.github.io/",
+     "url": "https://lucida-r2s.github.io/"
+    }
+   ],
+   "publishedAt": "2026-09-03T18:00:34.000Z",
+   "firstPublishedAt": "2026-09-03T18:00:34.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
+   "meta": {}
+  },
+  {
+   "id": "th:Dc1TJW2AAY9",
+   "sourceIds": [
+    "th:Dc1TJW2AAY9"
+   ],
+   "title": "Shopify, 0.8B 소형 모델을 자기개선 파인튜닝으로 GPT-5.6 Sol보다 잘하게 만들다 (Tangle 오픈소스)",
+   "originalTitle": "0.8B짜리 소형 모델이 특정 작업에서 GPT-5.6 Sol을 이겼습니다.",
+   "summary": "Shopify가 Qwen3.5-0.8B를 특정 업무에 맞게 미세 조정해 해당 작업에서 GPT-5.6 Sol을 넘어섰습니다. 범용 모델을 그대로 쓰지 않고 실제 업무 결과를 평가한 뒤 실패 데이터를 다시 학습에 넣어 계속 개선하는 구조이며, CEO Tobi Lütke는 이런 자기개선 루프가 있으면 작은 모델도 특정 업무에서 대형 모델보다 낫다고 설명했습니다. 이 파이프라인을 만드는 기반 기술 Tangle(비주얼 ML 파이프라인 에디터)도 오픈소스로 공개했습니다.",
+   "why": "모든 업무에 비싼 프론티어 모델을 부르는 대신 반복 업무마다 작은 전용 모델을 키우는 패턴이 실제 기업 사례로 증명됐습니다. 비용 구조를 고민하는 개발자에게 직접 참고가 됩니다.",
+   "importance": 7,
+   "tags": [
+    "Shopify",
+    "소형 모델",
+    "파인튜닝",
+    "Qwen",
+    "Tangle",
+    "오픈소스"
+   ],
+   "source": "threads",
+   "sourceName": "choi.openai",
+   "type": "post",
+   "sources": [
+    "choi.openai"
+   ],
+   "url": "https://www.threads.com/@choi.openai/post/Dc1TJW2AAY9",
+   "image": "img/th_Dc1TJW2AAY9.jpg",
+   "imageLocal": true,
+   "related": [
+    {
+     "label": "tangleml.com/",
+     "url": "https://tangleml.com/"
+    }
+   ],
+   "publishedAt": "2026-09-03T17:00:47.000Z",
+   "firstPublishedAt": "2026-09-03T17:00:47.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
    "meta": {}
   },
   {
@@ -327,6 +559,38 @@
    "publishedAt": "2026-09-03T13:15:00.000Z",
    "firstPublishedAt": "2026-09-03T13:15:00.000Z",
    "collectedAt": "2026-09-03T23:00:48.119Z",
+   "meta": {}
+  },
+  {
+   "id": "th:Dc03s6-giXw",
+   "sourceIds": [
+    "th:Dc03s6-giXw"
+   ],
+   "title": "35년 미해결 RSA-260 소인수분해 성공: Cognition 엔지니어가 130자리 소인수 공개",
+   "originalTitle": "와.. 35년 동안 아무도 풀지 못했던 RSA-260이 결국 풀렸습니다.",
+   "summary": "Cognition 엔지니어 Eric Lu가 X에 올린 130자리 숫자가 1991년부터 미해결이던 RSA-260의 소인수로 확인됐습니다. 2020년 RSA-250 이후 소인수분해 기록을 다시 넘어선 것으로, 연구용 문제라 현재 쓰는 RSA-2048이 뚫렸다는 뜻은 아닙니다. Devin 같은 AI 에이전트가 계산이나 코드 작성에 얼마나 기여했는지는 확인되지 않았지만, 그렇다면 AI가 수학 난제를 푸는 방식의 변화를 뜻합니다.",
+   "why": "",
+   "importance": 5,
+   "tags": [
+    "RSA-260",
+    "암호",
+    "수학",
+    "Cognition",
+    "AI 에이전트"
+   ],
+   "source": "threads",
+   "sourceName": "choi.openai",
+   "type": "post",
+   "sources": [
+    "choi.openai"
+   ],
+   "url": "https://www.threads.com/@choi.openai/post/Dc03s6-giXw",
+   "image": "img/th_Dc03s6-giXw.jpg",
+   "imageLocal": true,
+   "related": [],
+   "publishedAt": "2026-09-03T13:00:58.000Z",
+   "firstPublishedAt": "2026-09-03T13:00:58.000Z",
+   "collectedAt": "2026-09-04T03:25:58.395Z",
    "meta": {}
   },
   {
