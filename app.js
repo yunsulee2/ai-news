@@ -87,7 +87,7 @@
       tags.append(b);
     }
     const rel = t.querySelector('.related');
-    const links = [{ label: `원문 보기: ${i.sourceName}`, url }, ...(i.related || [])].slice(0, lead ? 6 : 4);
+    const links = [{ label: `원문 보기: ${i.sourceName}`, url }, ...(i.threadsUrl ? [{ label: 'Threads에서 보기 (@ai_sosik_daily)', url: i.threadsUrl }] : []), ...(i.related || [])].slice(0, lead ? 6 : 4);
     for (const r of links) rel.append(el('a', { href: safeUrl(r.url), target: '_blank', rel: 'noopener' }, extIcon(), document.createTextNode(r.label || r.url)));
     return t;
   }
