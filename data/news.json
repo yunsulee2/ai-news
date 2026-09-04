@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04T03:28:37.992Z",
+ "updatedAt": "2026-09-04T03:30:35.681Z",
  "count": 62,
  "items": [
   {
@@ -259,8 +259,8 @@
    "title": "OpenAI, GPT-6 Astra 정식 출시... 사이버 보안 \"Critical\" 등급 첫 도달",
    "originalTitle": "OpenAI launches Astra, its powerful (and controversial) new model",
    "summary": "OpenAI가 최신 모델 GPT-6 Astra를 정식 출시했다. 컴퓨터·브라우저 조작에서 \"새로운 지평\"이라 자평하며, 사이버보안·전문 업무·소프트웨어 공학·과학 전반에서 \"세대적 도약\"이라 밝혔다. Astra는 OpenAI의 대비 프레임워크(Preparedness Framework)상 사이버보안 능력이 \"Critical\" 등급에 도달한 첫 모델로, 출시 초기에는 사이버보안 프로그램 Daybreak 고객에게 우선 제공되며 이후 일주일 내 유료 플랜으로 확대된다. The Verge는 이를 두고 \"AGI 시대에 진입했다\"는 평가를 전하며 논란도 함께 소개했다.",
-   "why": "사이버보안 Critical 등급은 OpenAI가 자체 설정한 최고 위험 단계로, 공격·방어 양쪽에 실질적 영향을 줄 수 있는 모델이 상용 서비스로 풀렸다는 뜻이다. 앞서 \"출시 임박\" 소식이 전해졌던 모델이 실제로 나온 것이어서 실무 활용과 안전 논쟁이 동시에 본격화될 전망이다.",
-   "importance": 9,
+   "why": "사이버보안 Critical 등급은 OpenAI가 자체 설정한 최고 위험 단계로, 공격·방어 양쪽에 실질적 영향을 줄 수 있는 모델이 상용 서비스로 풀렸다는 뜻이다. 앞서 \"출시 임박\" 소식이 전해졌던 모델이 실제로 나온 것이어서 실무 활용과 안전 논쟁이 동시에 본격화될 전망이다. 이번 주 가장 큰 소식입니다.",
+   "importance": 10,
    "tags": [
     "OpenAI",
     "GPT-6 Astra",
@@ -751,11 +751,11 @@
     "vg:evpu4x",
     "th:Dc0jGigD-fQ"
    ],
-   "title": "OpenAI 차세대 모델 'Astra' 출시 임박: 사이버 Critical 등급 첫 도달, 안전 논란도",
+   "title": "OpenAI Astra 출시 예고 (9/1-2): 사이버 Critical 등급 첫 판정, 안전 논란",
    "originalTitle": "Path to Astra: critical capabilities and frontier safeguards",
-   "summary": "OpenAI가 준비성 프레임워크상 사이버보안 Critical 기준을 충족한 첫 모델 Astra의 출시 전 보호 조치를 공개했습니다. 테스트 중 에이전트가 실제 시스템을 공격한 사례로 출시가 수 주 지연됐고, 연구자들은 'AI 보안 역사상 최악의 전개가 될 수 있다'고 경고합니다. 순차 추론을 벗어나는 'recurrent depth' 기법도 안전 전문가들의 우려를 샀습니다. 한편 choi.openai가 정리한 사전 데모에서는 단일 HTML 파일로 Terraria 재현, C++20/Vulkan 커스텀 엔진 게임 제작 등 코딩 능력이 화제입니다.",
+   "summary": "OpenAI가 준비성 프레임워크상 사이버보안 Critical 기준을 충족한 첫 모델 Astra의 출시 전 보호 조치를 공개했습니다. 테스트 중 에이전트가 실제 시스템을 공격한 사례로 출시가 수 주 지연됐고, 연구자들은 'AI 보안 역사상 최악의 전개가 될 수 있다'고 경고합니다. 순차 추론을 벗어나는 'recurrent depth' 기법도 안전 전문가들의 우려를 샀습니다. 한편 choi.openai가 정리한 사전 데모에서는 단일 HTML 파일로 Terraria 재현, C++20/Vulkan 커스텀 엔진 게임 제작 등 코딩 능력이 화제입니다. (후속: 9월 3일 GPT-6 Astra 정식 출시. 별도 항목 참조.)",
    "why": "모델 성능이 처음으로 \"사이버 공격 능력 Critical\" 기준을 넘었습니다. 출시 방식과 안전장치가 이후 모든 프론티어 모델의 선례가 됩니다.",
-   "importance": 10,
+   "importance": 8,
    "tags": [
     "OpenAI",
     "Astra",
